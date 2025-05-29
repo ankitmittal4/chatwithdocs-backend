@@ -1,328 +1,503 @@
 
 
+10(2236 ) 
  
  
  
+Bachelor of Technology (Computer Science & Engineering) 
+Credit-Based Scheme of Studies/Examination 
+Semester VI (w.e.f. session 2020-2021 ) 
+S. 
+No. 
+Course 
+Code 
+Subject L:T:P Hours
+/Week 
+Credits Examination Schedule (Marks) Duratio
+n of 
+Exam 
+(Hrs) 
+Major 
+Test 
+Minor 
+Test 
+Practical Total 
+1 PC-CS-
+302 
+Complier Design 3:0:0 3 3 75 25 0 100 3 
+2 PC-CS-
+304 
+Computer Networks 3:0:0 3 3 75 25 0 100 3 
+3 PEC Elective-II 3:0:0 3 3 75 25 0 100 3 
+4 PEC Elective-III 3:0:0 3 3 75 25 0 100 3 
+5 OEC  Open Elective-I 3:0:0 3 3 75 25 0 100 3 
+6 PROJ –
+CS-302 
+Project-1 0:0:6 6 3 0 40 60 100 3 
+7 PC-CS-
+306L 
+UNIX and Linux 
+Programming Lab 
+0:0:4 4 2 0 40 60 100 3 
+8 PC-CS-
+308L 
+Computer Networks 
+Lab 
+0:0:4 4 2 0 40 60 100 3 
+Total  29 22 375 245 180 800  
  
+PEC Elective-II PEC Elective-III 
+Advanced Computer Architecture: PE-CS-S302 Simulation & Modeling: PE-CS-S310 
+Distributed Systems: PE-CS-S304 Mobile Computing: PE-CS-S312 
+Fault Tolerant Computing: PE-CS-S306 Unix & Linux Programming: PE-CS-S314 
+Mobile Ad-hoc and Wireless Sensor Networks: PE-
+CS-S308 
+Real Time Systems: PE-CS-S316 
+OEC Open Elective-I 
+Soft Skills and Interpersonal Communication: OE-CS-
+302 
+Management Information System: OE-CS-304 
+Enterprise Resource Planning: OE-CS-306 
  
+Note: Students be encouraged to go to 6-8 weeks summer internships mandatory during the summer 
+break after the completion of sixth semester exams. 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-JSW SCPL, BAWAL 
- 
-STANDARD MAINTENANCE PROCEDURE 
- 
-ACB/VCB Maintenance 
-
- 
-SOP: ACB/VCB Maintenance 
-JSW/____/____                                                       VERSION 00  Not Controlled If Printed 
- 
-STANDARD OPERATING PROCEDURE       
- 
- 
-SOP Title: ACB/VCB 
-Maintenance 
- 
-Date of Revision 3rd December, 
-2024 
-Document Issue 
-Date 
-15th March, 2023 Revision No 02 
- 
- 
-Document Issue and Revision History 
- 
-Date Revision Number Change Summary 
-1
-ST
- February, 2023 01 Format Standardization 
-3
+The  course  of  both  PE  &  OE  will  be  offered  at  1/3
 rd
- December, 2024 02 JSW SOP/SMP Format 
-Standardization 
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
+ strength  or  20  students (whichever  is  smaller)  of 
+the section.  
  
  
  
- 
- 
- 
- 
- 
-Authorised by Mr. Mohit Jain 
-Signature  
-Position Manager 
- 
- 
- 
- 
- 
-Confidentiality  
-This document and its content are the copyright property of JSW Group. The release of this document to any 
-third party outside of JSW Group is strictly prohibited without prior consent. 
-Disclaimer: The ‘JSW Group’ is commonly and for convenience referred to as a group of entities which use the 
-group’s trademark ‘JSW’ as a part of their corporate name, logo and/or in relation to their products and services, 
-either by virtue of shareholding interest or otherwise. 
- 
-Prepared by Ms. Asit Loeiya 
-Signature  
-Position Deputy Manager 
-
- 
-SOP: ACB/VCB Maintenance 
-JSW//  VERSION 00  Not Controlled If Printed 
-Page 3 of 7 
-Title:  
-ACB/VCB Maintenance 
-Linked to Risk Assessment:  Yes Location: Plant 
- 
-1.PURPOSE:  
-To establish a standardized procedure for the operation, inspection, and maintenance of Air Circuit Breakers 
-(ACBs)/Vacuum Circuit Breakers (VCBs) in electrical systems to ensure safe and reliable operation. 
-2.SCOPE:  
-This SOP applies to all ACBs/VCBs in the electrical distribution system. It includes procedures for inspection, testing, 
-cleaning, lubrication, and component replacement. 
-4.RESPONSIBILITY: 
-The following employees are responsible to implement this procedure while working at ACBs/VCBs - 
-• Section In-charge 
-• Shift In charge/Supervisor 
- 
- 
-Reference 
-• 6Hi-mill Electrical manual 
- 
-Definitions 
- 
- 
- 
- 
-4.PPE REQUIREMENT 
-PPE: Mandatory  PPE:  Special PPE:  
-Insulated Gloves 
-Arc Flash Suit 
-Earplugs 
-Rubber Insulating Boots 
-Safety Helmet 
- 
-Reflective Jacket 
- 
- 
-5.EMERGENCY ACTION:  
-IN EMERGENCY DAIL NUMBERS 
-Security:       1599 Ambulance:     1515 
-Hospital:       1555 Safety      :       1546 
-Telephone operator:        
- 
-Emergency Switch Location Intercom Number Emergency Response Team 
-Main Office   
-CCL   
-CGL-1    
-Sub Station   
-Mill & Pickling   
-2 CGL-2 / Finishing   
-RLNG GAIL Station   
-ETP /ARP   
- 
-
- 
-SOP: ACB/VCB Maintenance 
-JSW//  VERSION 00  Not Controlled If Printed 
-Page 4 of 7 
- 
-6.PROCEDURE: 
- 
-• Switch off the ACB/VCB by using the manual trip mechanism or the electrical control switch. 
-• Ensure the power supply to the breaker is turned off 
-• Isolate the feeder circuit to which the ACB/VCB is connected 
-• Place a lockout device on the breaker and associated disconnecting switch to prevent accidental re-
-energization. 
-• Place a warning tag indicating the breaker is under maintenance. 
-• Confirm zero energy state at all points before starting maintenance work. 
-• Check for physical damage, cracks, or signs of overheating on the breaker housing, covers, and 
-components. 
-• Check for any corrosion, loose connections, or overheating signs at the terminals and bus bars. 
-• Clean terminals with non-conductive tools and check the tightness of connections. 
-• Apply an anti-corrosive compound if necessary, to ensure good contact. 
-• Ensure there is no dust, dirt, or moisture buildup on or around the ACB/VCB. 
-• Clean the area using a soft cloth or compressed air. 
-• Check the operating mechanism for smooth movement and correct alignment 
-• Look for any signs of binding or wear in the mechanism, such as the springs, pins, and levers. 
-• Lubricate moving parts as per the manufacturer’s recommendations (e.g., operating springs). 
-• Inspect the main contacts, arcing contacts (for ACBs), and vacuum interrupters (for VCBs Inspect the 
-vacuum interrupter for cracks or damage that might lead to leakage) for any signs of wear, pitting, or 
-discoloration. 
-• Clean contacts if necessary, using dry clothes or contact cleaner (avoid abrasives that could damage 
-surfaces). 
-• Ensure contacts are properly aligned and free from any obstructions. 
-• Ensure the trip mechanism operates correctly and verify that there are no sticking parts or corrosion. 
-• Manually test the trip function (not involving live circuits). 
-• Check the auxiliary contacts for wear or damage. 
-• Clean any dust or debris from auxiliary contacts. 
-6.OH&S AND ENVIRONMENT HAZARDS 
-OH&S Hazards: 
-1. CONTROL MEASURES IN 
-OPERATION: 
-The most common hazards are: 
-• Falls on Same Level  
-• Slippery surface 
-• Exposure to respiratory system 
-• Exposure to High-Frequency Sound Waves 
-• Electric Shock 
-The control measures in Operation are: 
-• Wear arc flash-rated PPE (face 
-shields, suits, gloves). 
-• Ensure proper training for personnel 
-in handling electrical hazards. 
-• Perform regular maintenance checks 
-to identify faulty equipment. 
-• Use proper insulation and 
-grounding. 
- 
-Environment Hazards:   Control Measures in Operation: 
-• Land contamination 
-• Preventive Maintenance of 
-ACB/VCB as per SAP scheduling 
  
  
  
 
- 
-SOP: ACB/VCB Maintenance 
-JSW//  VERSION 00  Not Controlled If Printed 
-Page 5 of 7 
-• Inspect all auxiliary relays and control circuits for proper connection and operational integrity. 
-• Verify that the shunt trip, under-voltage release, and other auxiliary components are functioning 
-correctly. 
-• Tighten any screws or bolts that were loosened during maintenance 
-• Once the maintenance is complete and all checks have been performed, remove the lockout/tagout 
-devices in accordance with your facility’s procedures. 
-• Reconnect the ACB/VCB to the power supply 
-• close the breaker and verify normal operation, ensuring that there are no unusual sounds or 
-behaviours. 
-• Perform a final visual inspection to ensure everything is in place 
- 
-7.ENVIRONMENTAL INSTRUCTIONS / CONSIDERATIONS 
- 
-Prevention of waste contamination of ground and water courses/ Arrest Spillages:  
- 
-• Any damaged or worn components, such as contacts, seals, or insulating materials, should be properly 
-disposed of in accordance with local environmental regulations. 
-• Recyclable materials, such as metals or plastics, should be separated from hazardous waste for recycling. 
-• Avoid spillage of these substances during maintenance and use appropriate spill containment 
-procedures if needed. 
- 
-Dealing with waste:  
-• When cleaning finishes, always ensure that wastes are not left on floor but cleaned up immediately with 
-water if it is reusable and not left for someone to clean. 
-• Always leave the area clean after work completion. 
+10(2237 ) 
  
  
  
  
-8.DOCUMENTATION & ENCLOSURES: 
+PC-CS-302 Complier Design 
+Lecture Tutorial Practical Credit Major Test Minor Test Total Time 
+3 0 0 3 75 25 100 3 Hrs. 
+Purpose 
+To introduce complier design concepts and their implementation  
+Course Outcomes(CO) 
+CO1 
+To understand the role and designing of a lexical analyzer. 
+CO2 
+To analyze the role and designing of syntax analyzer or parser. 
+CO3 
+To identify the role of semantic analyzer and intermediate code generation. 
+CO4 
+To explore the design importance of optimization of codes and error detection 
  
-• No enclosures 
+UNIT I 
+ Introduction  to  Language  Processing  System,  Compiling  Analysis  of  the  Source  Program,  Phases  of  a 
+Compiler,  Compiler  Construction  Tools.  Lexical  Analysis –Regular  Expression,  Introduction  to  Finite 
+Automata  and  Regular  Expression,  Conversion  of  Regular  Expression  to  NFA,  Role  of  Lexical  Analyzer, 
+Specification of Tokens.  
+UNIT II 
+Syntax Analysis: Role of the Parser, Abstract Syntax Trees, Ambiguity in Context-Free Grammars, Types of 
+Parsing:- Top  Down  Parsing,  Recursive  Descent  Parsing,  LL  Parser,  Back  Tracking,  Bottom  Up  Parsing, 
+SLR Parser, Canonical LR Parser, LALR Parser. 
+UNIT III 
+Semantic  Analysis  :  Semantic  Errors,  Attribute  Grammar,  Synthesized  attributes,  Static  Allocation,  Stack 
+Allocation,  Heap  Allocation,  Activation  Trees,  Symbol  Table,  Intermediate  Code  Generation  and  Code 
+Intermediate languages, Declarations, Assignment Statements, Boolean Expressions, Case Statements, DAG 
+representation of Basic Blocks, A simple Code generator from DAG, Issues in the Design of Code Generator 
+. 
+UNIT 1V 
+ Code Optimization and Run Time  Environments, Principal Sources  of Optimization, Machine-independent 
+Optimization,   Machine-dependent   Optimization,   Optimization   of   Basic   Blocks,   Loop   Optimization   , 
+Peephole  Optimization,  Introduction  to  Global  Data  Flow  Analysis,  Storage  Organization,  Static  Storage 
+Management, Heap Storage management, Parameter Passing. Error Recovery, Panic mode, Statement mode, 
+Global correction. 
+ 
+Suggested Book : 
+1. Alfred  Aho,  Ravi  Sethi,  Jeffrey  D  Ullman,  “Compilers  Principles,  Techniques  and Tools”,  Pearson 
+Education Asia, 2018. 
+2. Allen I. Holub “Compiler Design in C”, Prentice Hall of India, 2003.  
+3. C. N. Fischer and R. J. LeBlanc, “Crafting a compiler with C”, Benjamin Cummings, 2003.  
+4. V Raghavan , “ Principles of Compiler Design”, Second Edition, Tata McGraw-Hill, 2018.  
+5. Henk  Alblas  and  Albert  Nymeyer,  “Practice  and  Principles  of  Compiler  Building  with  C”,  PHI, 
+2001.   
+6. Kenneth C. Louden, “Compiler Construction: Principles and Practice”, Thompson Learning, 2003 
  
  
  
  
-In the event of an emergency such as, you feel unwell; proceed to a safe area and Immediately 
-contact/report to your supervisor.  
  
-9.SAFETY RULE REMINDERS 
  
-The following rules must always be adhered to when carrying out these tasks: 
  
-1. ALWAYS Maintain high standard of housekeeping at workplaces. 
-2. ALWAYS ensure you are always wearing the full appropriate Personal Protective Equipment that are 
-required for the activity. 
-3. ALWAYS use 3 points of contact when climbing into or out of any piece of plant equipment / ladders. 
-4. ALWAYS stick to the designated walkways to and from work area. 
-5. Never work or travel below suspended load. 
+ 
+ 
+ 
  
 
+10(2238 ) 
  
-SOP: ACB/VCB Maintenance 
-JSW//  VERSION 00  Not Controlled If Printed 
-Page 6 of 7 
  
-UNUSUAL CIRCUMSTANCES OR DEVIATION FROM NORMAL ROUTINE DETAILED IN THIS WORK 
-INSTRUCTION MAY REQUIRE AN ALTERNATIVE METHOD OF WORK TO BE CONSIDERED AND A NEW 
-RISK OR EXISTING RISK ASSESSMENT AMENDED TO REFLECT THE CHANGE. THE ASSESSMENT MAY 
-BE A FORMAL WRITTEN ASSESSMENT AS PER THE PERMIT TO WORK REQUIREMENT. IF IN DOUBT 
-REGARDING THE ABOVE CONTACT YOUR SUPERVISOR FOR FURTHER GUIDANCE. 
+PC-CS-304 Computer Networks 
+Lecture Tutorial Practical Credit Major Test Minor Test Total Time 
+3 0 0 3 75 25 100 3 Hrs. 
+Purpose 
+To introduce the architecture and layers of computer network, protocols used at different 
+Layers. 
+Course Outcomes(CO) 
+CO1 
+To understand the basic concept of networking, types, networking topologies and layered 
+architecture. 
+CO2 
+To understand data link layer and MAC sub-layer` 
+CO3 
+To understand the network Layer functioning 
+CO4 
+To understand the transport layer and application layer operation 
  
-Prepared By: Approved By: 
-Date:  Date: 
+Unit -I 
+Introduction  to  Computer  Networks  : Data  Communication  System  and  its  components,  Data  Flow, 
+Computer  network  and  its  goals,  Types  of  computer  networks:  LAN,  MAN,  WAN,  Wireless  and  Wired 
+networks,  broadcast  and  point-to-point  networks,  Network  topologies,  protocols,  interfaces  and  services, 
+ISO- OSI reference model, TCP/IP architecture. 
+Physical  Layer:  Concept  of  Analog  &  Digital  Signal,  Bandwidth,  Transmission  Impairments:  Attenuation, 
+Distortion,  Noise,  Multiplexing  :  Frequency  Division,  Time  Division,  Wavelength  Division,  Transmission 
+Media :  Twisted  pair,  Coaxial  cable,  Fiber  optics,  Wireless  transmission  (radio,  microwave,  infrared), 
+Switching:  Circuit  Switching,  Message  Switching  ,Packet  Switching  &  comparisons,  narrowband  ISDN, 
+broadband ISDN. 
  
-Record of significant changes: 
+Unit -II 
+Data  link  layer:  Error  Control, Types  of  errors,  framing(character  and  bit  stuffing),  error  detection  & 
+correction  methods;  Flow  control;  Protocols:  Stop  &  wait  ARQ,  Go-Back- N  ARQ,  sliding  window 
+protocols, Selective repeat ARQ, HDLC; 
+Medium  access  sub  layer:  Point  to  point  protocol,  FDDI,  token  bus,  token  ring;  Reservation,  polling, 
+Multiple  access  protocols:  Pure  ALOHA,  Slotted  ALOHA,  CSMA,  CSMA/CD,  FDMA,  TDMA,  CDMA, 
+LLC,  Traditional  Ethernet,  fast  Ethernet,  Network  devices-repeaters,  hubs,  switches,  Bridges,  Router, 
+Gateway . 
  
-Note of Significant change 
+Unit-III 
+Network layer:  Addressing : Internet address, sub-netting; Routing techniques, static vs.  dynamic routing , 
+routing table, DHCP, IEEE standards 802.x, Routing algorithms: shortest path algorithm, flooding, distance 
+vector  routing,  link  state  routing; Protocols:  ARP,  RARP,  IP,  ICMP,  IGMP,  IPV6;  Unicast  and  multicast 
+routing protocols, ATM. 
  
-Approved by Date 
-Initial Release HOD  
+Unit-IV 
+Transport layer: Process to process delivery; UDP; TCP, RPC, Congestion control algorithm: Leaky bucket 
+algorithm, Token bucket algorithm, choke packets; Quality of service: techniques to improve QoS.  
+Application  layer:  DNS;  SMTP,  SNMP,  FTP,  HTTP  &  WWW;  Firewalls,  Bluetooth,  Email,  S/MIME, 
+IMAP,  
+Network  Security:  Cryptography,  user  authentication,  security  protocols  in  internet,  public  key  encryption 
+algorithm, digital signatures 
+Suggested Books: 
+1. Behrouz  A.  Forouzan,  “Data  communication  and  Networking”,  Tata  McGraw  Hill,  Fourth  Edition, 
+2011. 
+2. Computer Networks, 4th Edition, Pearson Education by Andrew S. Tanenbaum 
+1. Larry L.Peterson, Peter S. Davie, “Computer Networks”, Elsevier, Fifth Edition, 2012. 
+2. William Stallings, “Data and Computer Communication”, Eighth Edition,Pearson Education, 2007. 
+3. James F. Kurose, Keith W. Ross, “Computer Networking: A Top–Down Approach Featuring the 
+Internet”, Pearson Education, 2005. 
  
-TRAINING ATTENDANCE SHEET / RECORD: 
- 
-SR NAME DESIGNATION SIGN 
-1    
-2    
-3    
-4    
-5    
-6    
-7    
-8    
-9    
-10    
-11    
-12    
-13    
-14    
-15    
-16    
-17    
-18    
-19    
-20    
-21    
-22    
-23    
 
- 
-SOP: ACB/VCB Maintenance 
-JSW//  VERSION 00  Not Controlled If Printed 
-Page 7 of 7 
-24    
-25    
+10(2239 ) 
  
  
-TRAINER :...............................................................       
- DATE & TIME :........................................... 
  
-PLEASE NOTE:  By  signing  this  form,  you  sign  to  agree  that  you  understand  the  method  of  work 
-prescribed  in  this  document and agree to always adhere. You  are aware  about the risk & safe work 
-instructions/procedures for doing this type of activity, also explained to you in your local language. Do 
-not sign the form if you are not sure about the risks & any aspect of the SOP– Ask your Supervisor 
-for additional information. 
+ 
+ 
+PC-CS-306L UNIX and Linux Programming Lab 
+Lecture Tutorial Practical Credit Minor Test Practical Total Time 
+0 0 4 3.0 40 60 100 3 Hrs. 
+Purpose 
+Experimental knowledge of programming skills with expertisation on Unix/Linux platform 
+Course Outcomes(CO) 
+CO1 
+Learning of simple and advanced commands of Unix /Linux operating systems. 
+CO2 
+Develop shell programming using Bash or any other shell scripts. 
+CO3 
+Develop advanced shell programming skills. 
+CO4 
+Analyzing & evaluation of performance of various c language based programs with the help 
+of Make file & debug utilities. 
+CO5 
+Creation  of  user  accounts,  Learning of  package  installation,  backup  and  shutdown  process 
+on Unix /Linux operating systems. 
+ 
+ 
+List of Practical 
+1. Familiarize with Unix/Linux Log In/Log Out and various other commands & vi editor. 
+2. Develop simple shell programs using Bash or any other shell in Linux. 
+3. Develop advanced shell programs using grep, fgrep & egrep. 
+4. Compile and debug various C language based programs using 'makefile' & 'debug' utility. 
+5. Learning of installation of dual operating systems with Linux having previously installed  other 
+window based operating system. Both OSs should be in working operating mode. 
+6. As Supervisor create and maintain user accounts, learn package installation, taking backups,  creation  of 
+scripts for file and user management, creation of startup and shutdown scripts using at, batch, cron etc. 
+ 
+ 
+NOTE : At least 8 to 12 more programs exercises based on Unix/Linux plateform are to be      
+assigned by the concerned teacher. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10(2240 ) 
+ 
+ 
+ 
+ 
+PC-CS-308L Computer Networks Lab 
+Lecture Tutorial Practical Credit Minor Test Practical Total Time 
+0 0 4 2 40 60 100 3 Hour 
+Purpose To explore networking concepts using Java programming & networking tools. 
+Course Outcomes (CO) 
+CO1 
+Do Problem Solving using algorithms. 
+CO2 
+Design and test simple programs to implement networking concepts using Java. 
+CO3 
+Document artifacts using applied addressing & quality standards. 
+CO4 
+Design simple data transmission using networking concepts and implement. 
+ 
+COMPUTER NETWORKS LAB 
+1. Create a socket for HTTP for web page upload and download. 
+2. Write a code simulating ARP /RARP protocols. 
+3. Study of TCP/UDP performance. 
+4. Performance comparison of MAC protocols 
+5. Performance comparison of routing protocols. 
+6. Write a program: 
+a. To implement echo server and client in java using TCP sockets. 
+b. To implement date server and client in java using TCP sockets. 
+c. To implement a chat server and client in java using TCP sockets. 
+7. Write a program: 
+a. To implement echo server and client in java using UDP sockets 
+b. To implement a chat server and client in java using UDP sockets. 
+c. To implement a DNS server and client in java using UDP sockets. 
+8. To flood the server from a spoofed source address leading to a DoS attack. 
+9. To sniff and parse packets that pass through using raw sockets. 
+10. To implement simple calculator and invoke arithmetic operations from a remote client. 
+11. To implement bubble sort and sort data using a remote client. 
+12. To simulate a sliding window protocol that uses Go Back N ARQ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10(2244 ) 
+ 
+ 
+Unit I 
+Introduction  to  Mobile Ad  hoc  Networks  (MANET) – Mobility  Management,  Characteristics  and 
+Attributes  related  to  MANETs,  Modeling  distributed  applications  for  MANET,  MAC  mechanisms  and 
+protocols. 
+ 
+Unit II 
+MANET  Routing  Protocols: Ad  hoc  network  routing  protocols,  destination  sequenced  distance  vector 
+algorithm,  cluster  based  gateway  switch  routing,  global  state  routing,  fish-eye  state  routing,  dynamic 
+source routing, ad hoc on-demand routing, OLSR & TORA routing, location aided routing, zonal routing 
+algorithm. 
+ 
+Unit III 
+Ad-Hoc  Network  Security:  Link  layer,  Network  layer,  Trust  and  key  management.  Self  policing 
+MANET – Node Misbehaviour, secure routing, reputation systems.  
+Wireless Sensor Networks (WSN) : Design Issues, Clustering, Applications of WSN. 
+ 
+Unit IV 
+MAC layer and Routing Protocols in WSN 
+Data Management:  Retrieval Techniques in WSN, Sensor databases, distributed query processing, Data 
+dissemination and aggregation schemes, Operating Systems for WSN, Security issues in WSN. 
+ 
+Suggested Books: 
+1 C.  Siva  Ram  Murthy  &  B.S. Manoj,  Mobile  Ad  hoc  Networks – Architectures  &  Protocols, 
+Pearson Education, New Delhi, 2004 
+2 C  M  Cordeiro&  D.P.  Agrawal,  Adhoc  &  Sensor  Networks – Theory  and  Applications,  ISBN 
+981256-682-1, World Scientific Singapore, 2006 
+3 C. S. Raghvendra, Wireless Sensor Networks, Springer-Verlag, 2006. 
+ 
+ 
+ 
+ 
+ 
+ 
+PE-CS-S308 Mobile Ad-hoc and Wireless Sensor Networks 
+Lecture Tutorial Practical Credit Major 
+Test 
+Minor Test Total Time 
+3 0 0 3 
+75 25 
+100 3 Hrs. 
+Program 
+Objective 
+(PO) 
+To enable students to describe and deal with computer communication and networking, various 
+reference models and architectures along with implemented wireless communication techniques 
+and various security and privacy parameters are also studied. 
+Course Outcomes (CO) 
+After completion of course students will be able to 
+CO1 
+Classify traditional networks and discuss various wireless networking standards, compare and 
+contrast various IEEE wireless LAN and Ethernet standards. 
+CO2 
+Describe cellular architecture and IPv4 and IPv6 header formats has to be discussed along with 
+mobile IP. 
+CO3 
+Recently deployed high performance computing standards, VPN, routing protocols as to be gone 
+through. 
+CO4 
+Various security and privacy standards/tools to be described. 
+
+10(2247 ) 
+ 
+PE-CS-S314  UNIX and Linux Programming  
+Lecture Tutorial Practical Credit Major Test Minor Test Total Time 
+3 0 0 3 75 25 100 3 Hrs. 
+Purpose 
+Expertisation in computational programming skills on Unix/Linux Environment. 
+Course Outcomes(CO) 
+CO1 
+Learning  of simple  &  advanced  commands  with  features  and  characteristics  of Unix 
+/Linux Systems. 
+CO2 
+Exploring knowledge of programming development skills using Shell, Filters, editors and 
+other utilities. 
+CO3 
+Analyzing the programming behaviour based on programming development/management 
+on Unix /Linux Systems. 
+CO4 
+Developing  creativity  as  system  administrative  with  networking  expertisation  in  Unix 
+/Linux Systems. 
+ 
+ 
+UNIT I : Unix/Linux Commands with Usages 
+History  of  Unix,  Structure  of  Unix  System  &  its  environment,  Unix/Linux  Startup,  User  accounts, 
+accessing  Linux – starting  and  shutting  processes, Logging  in  and  Logging  out,  various  types  of  Unix 
+Commands, zip, unzip, compress, uncompress, pack, unpack, various types of shells, shell programming, 
+Unix  file  system,  Mounting  &  Unmounting  File  System,  Linux/Unix  files,  i-nodes,  files  system  related 
+commands,  shell  as  command  processor,  shell  variables,  scripting,  Unix  architecture,  Handling  ordinary 
+files, General purpose utilities and advanced Unix Commands. 
+UNIT II : Filters and File Compression 
+Regular  Expression  and  Filters  :  Introducing  regular  expression  patterns,  syntax,  character  classes, 
+Quantifiers,  Bourne  Shell  Programming,  shell  scripting,  grep  :  searching  pattern,  egrep  :  searching 
+extended  regular  expression,  Editors  in  Unix/Linux  :  Stream  Editor,  Visual  Editor,  Emac  Editor, 
+programming   with   AWK   and   PERL,   File   compression   techniques,   delta   compression,   parallel 
+compression with Xdelta utility, data similarities elimination for data reduction. 
+UNIT III : Program Development Tools 
+The  C  Environment  :  C  language  programming  in  Unix/Linux  using vi  editor  &  C  compiler,  various 
+modes  of  vi  editor,  C  compiler  options,  C  Shell  operators,  C  Shell  Script  &  programming,  Program 
+Development  Tools,  MakeFile   Utility   for  keeping  program  up-to-date  &  its  use   for   dependency 
+calculations,  dynamic  linking  and  loading  of  libraries  modules,  static  and  shared  libraries,  dynamic 
+loader, debugging tools like gdb for handling errors, Memory management and managing large projects in 
+Unix programming environment. 
+UNIT IV : System Administration and Networking 
+Processes in  Linux  :  Processes,  starting  and  stopping  processes,  initialization  of  processes,  rc  and  init 
+files,  job  control – at,  batch,  cron,  time,  network  files,  security,  authentication,  password  administration, 
+signals  handlers,  threading,  Linux  I/O  system,  Networking  tools  :  Ping,  Telnet,  FTP,  Router,  Firewalls, 
+Backup and Restore tar, cpio, dd utility, mail command, Unix Network Security. 
+Case Study : LINUX Operating System as open source free software. 
+ 
+Suggested Books :  
+1. Sumitbha Das : Unix – Concept and Applications, Fourth Edition TMH, 2015 
+2. B.M Harwani, Unix and Shell Programming, Oxford University Press, 2013 
+3. Neil Matthew, Richard Stones : Beginning Linux Programming, 4
+th
+. Edition, Wrox-Shroff, 2011. 
+4. Welsh & Kaufmann : Running Linux, O’ Reiley & Associates, 2013. 
+ 
+ 
+    
+
+10(2249 ) 
+ 
+OE-CS-302 Soft Skills & Interpersonal Communication 
+Lecture Tutorial Practical  Credit Major Test Minor Test Total Time 
+3 0 0 3 75 25 100 3Hrs. 
+ Course Outcomes (CO) 
+CO1 Develop basic understanding of Communication. 
+CO2 Understand the process of communication and speaking. 
+CO3 Develop the Personality concepts and its implementation. 
+CO4 Develop the basic of group Discussion and interview. 
+ 
+UNIT-I 
+Communication: Introduction  Verbal,  Types  of  communication,  extra  personal    communication,  inter 
+personal    communication,    intrapersonal     communication,     mass    communication,    Creativity     in 
+communication,  Role  of  communication,  flow  of  Communications  and  its  need,    Speaking  Skills,    Main 
+features of speaking skills. 
+ 
+UNIT-II 
+Barriers in the way of communication, noise, inter personal barriers, intrapersonal barriers, organizational 
+barriers,  Extra  personal  barriers, Basics  of  communication: importance  of  communication,  process of 
+communication, objectives and characteristics of communication.  
+ 
+UNIT-III 
+Personality  Development,  what  is  personality?  Role  of  personality,  Heredity,  Environment,  situation, 
+Basics  of  personality, Soft  skills: Need  and  training.  Activity  in  soft  skills, Organizational  skill: 
+introduction and its need, basics principles for organization skills.  
+ 
+UNIT-IV 
+Group discussion: Group discussion, form of group discussion, strategy for group discussion, discussing 
+problem  and  solution,  Oral  presentation,  introduction,  planning,  Occasion,  purpose,  Modes  of  delivery, 
+Resume  making: Purpose  of  Resume,  Resume    design  and  structure,  contents    in  Resume,  types  of 
+Resume,  job  interview, introduction, objective  of Interview, types  of interview, stages of interview, Face 
+to face interview and campus interview. 
+ 
+Suggested Books: 
+1. Technical Communication Principles and Practice by Meenakshi Raman and Sangeeta Sharma by 
+Oxford Publication. 
+2. Personality Development and soft skills by Barun K. Mitra ,Oxford Publication. 
+3. Communication Skills For Engineers by C. Muralikrishna and Sunita  Mishra , Pearson Pub. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
