@@ -1,0 +1,318 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JSW SCPL, BAWAL 
+ 
+STANDARD MAINTENANCE PROCEDURE 
+ 
+Removing and replacing the position transducer
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW/____/____                                                       VERSION 00  Not Controlled If Printed 
+ 
+STANDARD OPERATING PROCEDURE       
+ 
+ 
+SOP Title: ACB/VCB 
+Maintenance 
+ 
+Date of Revision 3rd December, 
+2024 
+Document Issue 
+Date 
+15th March, 2023 Revision No 02 
+ 
+ 
+Document Issue and Revision History 
+ 
+Date Revision Number Change Summary 
+1
+ST
+ February, 2023 01 Format Standardization 
+3
+rd
+ December, 2024 02 JSW SOP/SMP Format 
+Standardization 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authorised by Mr. Mohit Jain 
+Signature  
+Position Manager 
+ 
+ 
+ 
+ 
+ 
+Confidentiality  
+This document and its content are the copyright property of JSW Group. The release of this document to any 
+third party outside of JSW Group is strictly prohibited without prior consent. 
+Disclaimer: The ‘JSW Group’ is commonly and for convenience referred to as a group of entities which use the 
+group’s trademark ‘JSW’ as a part of their corporate name, logo and/or in relation to their products and services, 
+either by virtue of shareholding interest or otherwise. 
+ 
+Prepared by Ms. Asit Loeiya 
+Signature  
+Position Deputy Manager 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 3 of 7 
+Title:  
+ACB/VCB Maintenance 
+Linked to Risk Assessment:  Yes Location: Plant 
+ 
+1.PURPOSE:  
+To define the standard process for safely and effectively removing and replacing the position transducer on a 
+hydraulic cylinder, ensuring continued accuracy in the hydraulic system's operation 
+2.SCOPE:  
+This SOP applies to all personnel who perform maintenance or replacement of the position transducer installed on 
+hydraulic cylinders in industrial and operational settings. It includes the procedures for isolation, removal, installation 
+of a new transducer, and post-installation testing. 
+4.RESPONSIBILITY: 
+The following employees are responsible to implement this procedure while working on removing and replacing the 
+position transducer- 
+• Section In-charge 
+• Shift In charge/Supervisor 
+ 
+Reference 
+• 6Hi-mill Electrical manual 
+ 
+Definitions 
+ 
+ 
+ 
+ 
+4.PPE REQUIREMENT 
+PPE: Mandatory  PPE:  Special PPE:  
+Gloves 
+ 
+Safety Helmet 
+Safety Shoes 
+Reflective Jacket 
+ 
+5.EMERGENCY ACTION:  
+IN EMERGENCY DAIL NUMBERS 
+Security:       1599 Ambulance:     1515 
+Hospital:       1555 Safety      :       1546 
+Telephone operator:        
+ 
+Emergency Switch Location Intercom Number Emergency Response Team 
+Main Office   
+CCL   
+CGL-1    
+Sub Station   
+Mill & Pickling   
+2 CGL-2 / Finishing   
+RLNG GAIL Station   
+ETP /ARP   
+ 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 4 of 7 
+ 
+6.PROCEDURE: 
+ 
+• Turn off power to the hydraulic system to ensure the system is completely de-energized. 
+• Use Lockout/Tagout (LOTO) procedures to ensure the system cannot be inadvertently 
+activated during PT change. 
+• Release any stored hydraulic pressure from the hydraulic valve to avoid potential hazards 
+when removing the position transducer. 
+• Verify that all hydraulic lines are depressurized, and that the system is fully isolated from both 
+power and pressure. 
+• Remove all pipelines from the cylinder to ensure safe access to the position transducer. 
+• Lift the cylinder using a chain pulley and securely hold it on a stand to ensure stability during 
+maintenance. 
+• Remove the fuse of the position transducer from the panel to disconnect the power supply. 
+• Carefully disconnect the wiring or electrical connectors from the position transducer, ensuring 
+no damage to the wiring. 
+• Remove the position transducer from the cylinder and install the new position transducer, 
+ensuring proper alignment and secure attachment. 
+• Reconnect the electrical wiring or connectors to the new position transducer, ensuring all 
+connections are secure and free of corrosion. 
+• Fix the cylinder back to its correct position, ensuring it is securely mounted. 
+• Reconnect all hose pipes to the hydraulic cylinder, ensuring all connections are tight and leak-
+free. 
+• Restore power to the hydraulic system and remove Lockout/Tagout (LOTO) devices. 
+• Restore the power to the position transducer by reinserting the fuses. 
+ 
+6.OH&S AND ENVIRONMENT HAZARDS 
+OH&S Hazards: 
+1. CONTROL MEASURES IN 
+OPERATION: 
+The most common hazards are: 
+• Falls on Same Level  
+• Slippery surface 
+• Exposure to respiratory system 
+• Electric Shock 
+The control measures in Operation are: 
+• Wear arc flash-rated PPE (face 
+shields, suits, gloves). 
+• Ensure proper training for personnel 
+in handling electrical hazards. 
+• Perform regular maintenance checks 
+to identify faulty equipment. 
+• Use proper insulation and 
+grounding. 
+ 
+Environment Hazards:   Control Measures in Operation: 
+• Land contamination 
+• removing and replacing the position 
+transducer  
+ 
+ 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 5 of 7 
+• Perform a final operational check of the hydraulic system, ensuring that the cylinder operation 
+is correct and that the position transducer is providing accurate feedback to the control system. 
+ 
+7.ENVIRONMENTAL INSTRUCTIONS / CONSIDERATIONS 
+ 
+Prevention of waste contamination of ground and water courses/ Arrest Spillages:  
+ 
+• Any damaged or worn components, such as contacts, seals, or insulating materials, should be properly 
+disposed of in accordance with local environmental regulations. 
+• Recyclable materials, such as metals or plastics, should be separated from hazardous waste for recycling. 
+• Avoid spillage of these substances during maintenance and use appropriate spill containment 
+procedures if needed. 
+ 
+Dealing with waste:  
+• When cleaning finishes, always ensure that wastes are not left on floor but cleaned up immediately with 
+water if it is reusable and not left for someone to clean. 
+• Always leave the area clean after work completion. 
+ 
+ 
+ 
+ 
+8.DOCUMENTATION & ENCLOSURES: 
+ 
+• No enclosures 
+ 
+ 
+ 
+ 
+In the event of an emergency such as, you feel unwell; proceed to a safe area and Immediately 
+contact/report to your supervisor.  
+ 
+9.SAFETY RULE REMINDERS 
+ 
+The following rules must always be adhered to when carrying out these tasks: 
+ 
+1. ALWAYS Maintain high standard of housekeeping at workplaces. 
+2. ALWAYS ensure you are always wearing the full appropriate Personal Protective Equipment that are 
+required for the activity. 
+3. ALWAYS use 3 points of contact when climbing into or out of any piece of plant equipment / ladders. 
+4. ALWAYS stick to the designated walkways to and from work area. 
+5. Never work or travel below suspended load. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 6 of 7 
+UNUSUAL CIRCUMSTANCES OR DEVIATION FROM NORMAL ROUTINE DETAILED IN THIS WORK 
+INSTRUCTION MAY REQUIRE AN ALTERNATIVE METHOD OF WORK TO BE CONSIDERED AND A NEW 
+RISK OR EXISTING RISK ASSESSMENT AMENDED TO REFLECT THE CHANGE. THE ASSESSMENT MAY 
+BE A FORMAL WRITTEN ASSESSMENT AS PER THE PERMIT TO WORK REQUIREMENT. IF IN DOUBT 
+REGARDING THE ABOVE CONTACT YOUR SUPERVISOR FOR FURTHER GUIDANCE. 
+ 
+Prepared By: Approved By: 
+Date:  Date: 
+ 
+Record of significant changes: 
+ 
+Note of Significant change 
+ 
+Approved by Date 
+Initial Release HOD  
+ 
+TRAINING ATTENDANCE SHEET / RECORD: 
+ 
+SR NAME DESIGNATION SIGN 
+1    
+2    
+3    
+4    
+5    
+6    
+7    
+8    
+9    
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+24    
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 7 of 7 
+25    
+ 
+ 
+TRAINER :...............................................................       
+ DATE & TIME :........................................... 
+ 
+PLEASE NOTE:  By  signing  this  form,  you  sign  to  agree  that  you  understand  the  method  of  work 
+prescribed  in  this  document and agree to always adhere. You  are aware  about the risk & safe work 
+instructions/procedures for doing this type of activity, also explained to you in your local language. Do 
+not sign the form if you are not sure about the risks & any aspect of the SOP– Ask your Supervisor 
+for additional information. 
+ 
+ 
+ 

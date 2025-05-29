@@ -1,0 +1,328 @@
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JSW SCPL, BAWAL 
+ 
+STANDARD MAINTENANCE PROCEDURE 
+ 
+ACB/VCB Maintenance 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW/____/____                                                       VERSION 00  Not Controlled If Printed 
+ 
+STANDARD OPERATING PROCEDURE       
+ 
+ 
+SOP Title: ACB/VCB 
+Maintenance 
+ 
+Date of Revision 3rd December, 
+2024 
+Document Issue 
+Date 
+15th March, 2023 Revision No 02 
+ 
+ 
+Document Issue and Revision History 
+ 
+Date Revision Number Change Summary 
+1
+ST
+ February, 2023 01 Format Standardization 
+3
+rd
+ December, 2024 02 JSW SOP/SMP Format 
+Standardization 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Authorised by Mr. Mohit Jain 
+Signature  
+Position Manager 
+ 
+ 
+ 
+ 
+ 
+Confidentiality  
+This document and its content are the copyright property of JSW Group. The release of this document to any 
+third party outside of JSW Group is strictly prohibited without prior consent. 
+Disclaimer: The ‘JSW Group’ is commonly and for convenience referred to as a group of entities which use the 
+group’s trademark ‘JSW’ as a part of their corporate name, logo and/or in relation to their products and services, 
+either by virtue of shareholding interest or otherwise. 
+ 
+Prepared by Ms. Asit Loeiya 
+Signature  
+Position Deputy Manager 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 3 of 7 
+Title:  
+ACB/VCB Maintenance 
+Linked to Risk Assessment:  Yes Location: Plant 
+ 
+1.PURPOSE:  
+To establish a standardized procedure for the operation, inspection, and maintenance of Air Circuit Breakers 
+(ACBs)/Vacuum Circuit Breakers (VCBs) in electrical systems to ensure safe and reliable operation. 
+2.SCOPE:  
+This SOP applies to all ACBs/VCBs in the electrical distribution system. It includes procedures for inspection, testing, 
+cleaning, lubrication, and component replacement. 
+4.RESPONSIBILITY: 
+The following employees are responsible to implement this procedure while working at ACBs/VCBs - 
+• Section In-charge 
+• Shift In charge/Supervisor 
+ 
+ 
+Reference 
+• 6Hi-mill Electrical manual 
+ 
+Definitions 
+ 
+ 
+ 
+ 
+4.PPE REQUIREMENT 
+PPE: Mandatory  PPE:  Special PPE:  
+Insulated Gloves 
+Arc Flash Suit 
+Earplugs 
+Rubber Insulating Boots 
+Safety Helmet 
+ 
+Reflective Jacket 
+ 
+ 
+5.EMERGENCY ACTION:  
+IN EMERGENCY DAIL NUMBERS 
+Security:       1599 Ambulance:     1515 
+Hospital:       1555 Safety      :       1546 
+Telephone operator:        
+ 
+Emergency Switch Location Intercom Number Emergency Response Team 
+Main Office   
+CCL   
+CGL-1    
+Sub Station   
+Mill & Pickling   
+2 CGL-2 / Finishing   
+RLNG GAIL Station   
+ETP /ARP   
+ 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 4 of 7 
+ 
+6.PROCEDURE: 
+ 
+• Switch off the ACB/VCB by using the manual trip mechanism or the electrical control switch. 
+• Ensure the power supply to the breaker is turned off 
+• Isolate the feeder circuit to which the ACB/VCB is connected 
+• Place a lockout device on the breaker and associated disconnecting switch to prevent accidental re-
+energization. 
+• Place a warning tag indicating the breaker is under maintenance. 
+• Confirm zero energy state at all points before starting maintenance work. 
+• Check for physical damage, cracks, or signs of overheating on the breaker housing, covers, and 
+components. 
+• Check for any corrosion, loose connections, or overheating signs at the terminals and bus bars. 
+• Clean terminals with non-conductive tools and check the tightness of connections. 
+• Apply an anti-corrosive compound if necessary, to ensure good contact. 
+• Ensure there is no dust, dirt, or moisture buildup on or around the ACB/VCB. 
+• Clean the area using a soft cloth or compressed air. 
+• Check the operating mechanism for smooth movement and correct alignment 
+• Look for any signs of binding or wear in the mechanism, such as the springs, pins, and levers. 
+• Lubricate moving parts as per the manufacturer’s recommendations (e.g., operating springs). 
+• Inspect the main contacts, arcing contacts (for ACBs), and vacuum interrupters (for VCBs Inspect the 
+vacuum interrupter for cracks or damage that might lead to leakage) for any signs of wear, pitting, or 
+discoloration. 
+• Clean contacts if necessary, using dry clothes or contact cleaner (avoid abrasives that could damage 
+surfaces). 
+• Ensure contacts are properly aligned and free from any obstructions. 
+• Ensure the trip mechanism operates correctly and verify that there are no sticking parts or corrosion. 
+• Manually test the trip function (not involving live circuits). 
+• Check the auxiliary contacts for wear or damage. 
+• Clean any dust or debris from auxiliary contacts. 
+6.OH&S AND ENVIRONMENT HAZARDS 
+OH&S Hazards: 
+1. CONTROL MEASURES IN 
+OPERATION: 
+The most common hazards are: 
+• Falls on Same Level  
+• Slippery surface 
+• Exposure to respiratory system 
+• Exposure to High-Frequency Sound Waves 
+• Electric Shock 
+The control measures in Operation are: 
+• Wear arc flash-rated PPE (face 
+shields, suits, gloves). 
+• Ensure proper training for personnel 
+in handling electrical hazards. 
+• Perform regular maintenance checks 
+to identify faulty equipment. 
+• Use proper insulation and 
+grounding. 
+ 
+Environment Hazards:   Control Measures in Operation: 
+• Land contamination 
+• Preventive Maintenance of 
+ACB/VCB as per SAP scheduling 
+ 
+ 
+ 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 5 of 7 
+• Inspect all auxiliary relays and control circuits for proper connection and operational integrity. 
+• Verify that the shunt trip, under-voltage release, and other auxiliary components are functioning 
+correctly. 
+• Tighten any screws or bolts that were loosened during maintenance 
+• Once the maintenance is complete and all checks have been performed, remove the lockout/tagout 
+devices in accordance with your facility’s procedures. 
+• Reconnect the ACB/VCB to the power supply 
+• close the breaker and verify normal operation, ensuring that there are no unusual sounds or 
+behaviours. 
+• Perform a final visual inspection to ensure everything is in place 
+ 
+7.ENVIRONMENTAL INSTRUCTIONS / CONSIDERATIONS 
+ 
+Prevention of waste contamination of ground and water courses/ Arrest Spillages:  
+ 
+• Any damaged or worn components, such as contacts, seals, or insulating materials, should be properly 
+disposed of in accordance with local environmental regulations. 
+• Recyclable materials, such as metals or plastics, should be separated from hazardous waste for recycling. 
+• Avoid spillage of these substances during maintenance and use appropriate spill containment 
+procedures if needed. 
+ 
+Dealing with waste:  
+• When cleaning finishes, always ensure that wastes are not left on floor but cleaned up immediately with 
+water if it is reusable and not left for someone to clean. 
+• Always leave the area clean after work completion. 
+ 
+ 
+ 
+ 
+8.DOCUMENTATION & ENCLOSURES: 
+ 
+• No enclosures 
+ 
+ 
+ 
+ 
+In the event of an emergency such as, you feel unwell; proceed to a safe area and Immediately 
+contact/report to your supervisor.  
+ 
+9.SAFETY RULE REMINDERS 
+ 
+The following rules must always be adhered to when carrying out these tasks: 
+ 
+1. ALWAYS Maintain high standard of housekeeping at workplaces. 
+2. ALWAYS ensure you are always wearing the full appropriate Personal Protective Equipment that are 
+required for the activity. 
+3. ALWAYS use 3 points of contact when climbing into or out of any piece of plant equipment / ladders. 
+4. ALWAYS stick to the designated walkways to and from work area. 
+5. Never work or travel below suspended load. 
+ 
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 6 of 7 
+ 
+UNUSUAL CIRCUMSTANCES OR DEVIATION FROM NORMAL ROUTINE DETAILED IN THIS WORK 
+INSTRUCTION MAY REQUIRE AN ALTERNATIVE METHOD OF WORK TO BE CONSIDERED AND A NEW 
+RISK OR EXISTING RISK ASSESSMENT AMENDED TO REFLECT THE CHANGE. THE ASSESSMENT MAY 
+BE A FORMAL WRITTEN ASSESSMENT AS PER THE PERMIT TO WORK REQUIREMENT. IF IN DOUBT 
+REGARDING THE ABOVE CONTACT YOUR SUPERVISOR FOR FURTHER GUIDANCE. 
+ 
+Prepared By: Approved By: 
+Date:  Date: 
+ 
+Record of significant changes: 
+ 
+Note of Significant change 
+ 
+Approved by Date 
+Initial Release HOD  
+ 
+TRAINING ATTENDANCE SHEET / RECORD: 
+ 
+SR NAME DESIGNATION SIGN 
+1    
+2    
+3    
+4    
+5    
+6    
+7    
+8    
+9    
+10    
+11    
+12    
+13    
+14    
+15    
+16    
+17    
+18    
+19    
+20    
+21    
+22    
+23    
+
+ 
+SOP: ACB/VCB Maintenance 
+JSW//  VERSION 00  Not Controlled If Printed 
+Page 7 of 7 
+24    
+25    
+ 
+ 
+TRAINER :...............................................................       
+ DATE & TIME :........................................... 
+ 
+PLEASE NOTE:  By  signing  this  form,  you  sign  to  agree  that  you  understand  the  method  of  work 
+prescribed  in  this  document and agree to always adhere. You  are aware  about the risk & safe work 
+instructions/procedures for doing this type of activity, also explained to you in your local language. Do 
+not sign the form if you are not sure about the risks & any aspect of the SOP– Ask your Supervisor 
+for additional information. 
+ 
+ 
+ 
