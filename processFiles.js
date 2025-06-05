@@ -4,6 +4,7 @@ const fs = require("fs");
 const pdfParse = require("pdf-parse");
 const { generateEmbeddings } = require("./embeddings.js");
 const { addToIndex } = require("./vectorStore.js");
+const mammoth = require("mammoth");
 
 const processFiles = async () => {
     const folderPath = path.join(__dirname, "pdf-folder");
@@ -12,7 +13,7 @@ const processFiles = async () => {
         return;
     }
 
-    const files = fs.readdirSync(folderPath).filter(file => file.endsWith(".pdf") || file.endsWith(".txt"));
+    const files = fs.readdirSync(folderPath).filter(file => file.endsWith(".pdf") || file.endsWith(".txt") || file.endsWith(".docx"));
     if (files.length === 0) {
         console.warn("No valid files found in the folder");
         return;
@@ -27,6 +28,9 @@ const processFiles = async () => {
         if (fileName.endsWith(".pdf")) {
             const data = await pdfParse(fs.readFileSync(filePath));
             text = data.text;
+        } else if (fileName.endsWith(".docx")) {
+            const result = await mammoth.extractRawText({ path: filePath });
+            text = result.value;
         } else {
             text = fs.readFileSync(filePath, "utf-8");
         }
